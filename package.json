@@ -1,0 +1,26 @@
+{
+  "name": "typhoon-backend",
+  "version": "0.0.1",
+  "description": "Project Management Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gma1083/typhoon-backend.git"
+  },
+  "author": "Gregory Arnheiter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gma1083/typhoon-backend/issues"
+  },
+  "homepage": "https://github.com/gma1083/typhoon-backend#readme",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "noomman": "^0.5.5"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.0"
+  }
+}
